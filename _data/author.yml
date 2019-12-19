@@ -1,51 +1,27 @@
 # Author settings
-name: 梁窠金
-title: Android 开发工程师
-address: 中国, 上海
-email: liungkejin@foxmail.com
-github: liungkejin
+name: 毕竟话少
+title: 安全工程师
+address: 中国, 合肥
+email: 3048352873@qq.com
+github: ssr-zjm
 gavatar: /assets/img/avatar.JPG
 workHistory:
-- work4:
-  company: 上海本趣网络科技有限公司
-  location: 中国, 上海
-  title: Android & Unity & AR 开发工程师
-  started: 2016
-  duration: (2016.5 - Present)
-  description: 开发 "无他相机" 安卓端，使用 unity 实现 3D 特效
-
-- work3:
-  company: 上海大银幕网络科技有限公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2015
-  duration: (2015.10 - 2016.5)
-  description: 开发和维护 "公证电影" App
-
-- work2:
-  company: 比亚迪精密制造上海分公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2014
-  duration: (2014.8 - 2015.8)
-  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
-
 - work1:
-  company: 合肥卓远电子科技有限公司
+  company: 北京神州绿盟信息安全科技股份有限公司
   location: 中国, 合肥
-  title: Linux 程序员
+  title: 安全工程师
   started: 2013
-  duration: (2013.6 - 2013.9)
-  description: 在嵌入式 Linux 环境下开发程序 (信号发生器，监控摄像头)
+  duration: (2019.4 - 至今)
+  description: 渗透测试，应急响应，网络安全赛事支持
 
 educationHistory:
 - education1:
-  organization: 安徽大学
-  degree: 学士
-  major: 化学工程与工艺
-  started: 2010
-  duration: (2010.9 - 2014.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
+  organization: 安全城市管理职业学院
+  degree: 专科
+  major: 计算机网络技术
+  started: 2020
+  duration: (2017.9 - 2020.7)
+  description: 自学web安全,产品运营，自媒体 培训并参加过多项网络安全比赛
 languages:
 - language1:
   name: 中文
@@ -54,21 +30,21 @@ languages:
   name: English
   proficiency: Limit
 programmingSkills:
-- Java:
-  name: Java/Android
-  percentage: 90%
-- Bash:
-  name: Bash Shell
-  percentage: 90%
-- CPP:
-  name: C/C++
-  percentage: 80%
-- PHP:
-  name: PHP
-  percentage: 30%
-- Python:
-  name: Python
-  percentage: 30%
-- Kotlin:
-  name: Kotlin
+- web安全:
+  name: web安全
   percentage: 70%
+- 区块链安全:
+  name: 区块链安全
+  percentage: 80%
+- 移动安全:
+  name: 移动安全
+  percentage: 30%
+- 产品运营:
+  name: 产品运营
+  percentage: 60%
+- 应急响应:
+  name: 应急响应
+  percentage: 30%
+- Golang:
+  name: Golang
+  percentage: 40%
