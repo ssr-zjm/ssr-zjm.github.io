@@ -9,11 +9,17 @@ workHistory:
 - work1:
   company: 北京神州绿盟信息安全科技股份有限公司
   location: 中国, 合肥
-  title: 安全工程师
+  title: 渗透测试工程师
   started: 2019
-  duration: (2019.4 - 至今)
-  description: 渗透测试，应急响应，网络安全赛事技术支持
-
+  duration: (2019.4 - 2020.4)
+  description: 渗透测试，app测试，应急响应，网络安全赛事技术支持
+- work2:
+  company: 杭州安恒信息技术股份有限公司
+  location: 中国, 合肥
+  title: 安全工程师
+  started: 2020
+  duration: (2020.4 - 至今)
+  description: 渗透测试，app测试，应急响应，红蓝对抗，智能合约安全
 educationHistory:
 - education1:
   organization: 安徽城市管理职业学院
