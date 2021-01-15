@@ -22,8 +22,8 @@ workHistory:
   description: 渗透测试，app测试，应急响应，红蓝对抗，智能合约安全
 educationHistory:
 - education1:
-  organization: 安徽城市管理职业学院
-  degree: 专科
+  organization: XXXXX
+  degree: XXX
   major: 计算机网络技术
   started: 2020
   duration: (2017.9 - 2020.7)
@@ -44,13 +44,13 @@ programmingSkills:
   percentage: 80%
 - 移动安全:
   name: 移动安全
-  percentage: 30%
+  percentage: 50%
 - 产品运营:
   name: 产品运营
   percentage: 60%
 - 应急响应:
   name: 应急响应
-  percentage: 30%
+  percentage: 60%
 - Golang:
   name: Golang
   percentage: 40%
